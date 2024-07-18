@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklearn_react=self.webpackChunklearn_react||[]).push([[3950],{7861:e=>{function n(e){e.languages.json={property:{pattern:/"(?:\\.|[^\\"\r\n])*"(?=\s*:)/,greedy:!0},string:{pattern:/"(?:\\.|[^\\"\r\n])*"(?!\s*:)/,greedy:!0},comment:/\/\/.*|\/\*[\s\S]*?(?:\*\/|$)/,number:/-?\d+\.?\d*(e[+-]?\d+)?/i,punctuation:/[{}[\],]/,operator:/:/,boolean:/\b(?:true|false)\b/,null:{pattern:/\bnull\b/,alias:"keyword"}}}e.exports=n,n.displayName="json",n.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_json.da7502af.chunk.js.map
